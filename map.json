@@ -9,7 +9,7 @@
      "export":
         {
          "format":"json",
-         "target":"..\/OneDrive\/Dokumente\/GitHub\/brf-map\/map.json"
+         "target":"map.json"
         }
     },
  "height":34,
@@ -192,7 +192,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"..\/OneDrive\/Dokumente\/GitHub\/brf-map\/tilesets_deviant_milkian_1.png",
+         "image":"tilesets_deviant_milkian_1.png",
          "imageheight":544,
          "imagewidth":544,
          "margin":1,
@@ -917,7 +917,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"..\/OneDrive\/Dokumente\/GitHub\/brf-map\/floortileset.png",
+         "image":"floortileset.png",
          "imageheight":272,
          "imagewidth":272,
          "margin":1,
